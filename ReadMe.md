@@ -1,4 +1,3 @@
-README для CrptApi
 
 Описание
 
